@@ -72,7 +72,7 @@ min-height: 100vh;
   &__service {
     padding: 2rem;
     &:nth-of-type(2) {
-      background-color: var(--primary-color);
+      background-color: #c3c3c3;
       .services__service__title {
         span {
           color: #fff;

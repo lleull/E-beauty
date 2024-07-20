@@ -18,7 +18,7 @@ function Footer() {
           duration: 0.8,
         }}
       >
-        &copy; Rudra Pramanik
+        &copy; Et-Store
       </motion.span>
       <motion.div
         className="footer__social__icons"

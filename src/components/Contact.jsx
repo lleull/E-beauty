@@ -21,7 +21,7 @@ function Contact() {
       >
         <div className="contact__title">
           <p>Stay in touch with me </p>
-          <h2>Quick Contact</h2>
+          <h2>Quick Contac</h2>
         </div>
         <div className="contact__data">
           <div className="contact__data__description">
